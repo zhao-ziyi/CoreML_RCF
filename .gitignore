@@ -17,5 +17,6 @@ profile
 DerivedData
 .idea/
 *.xcuserstate
+*.mlmodel
 # Pods - for those of you who use CocoaPods
 Pods
